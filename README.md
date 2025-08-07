@@ -58,7 +58,7 @@ A dynamic sales analytics project leveraging SQL for database creation, data cle
   - Air Max 270 React ($4,943.16)  
 - The lowest-selling product was Venetian Loafer, with only $1,240.89 in revenue.  
 
-### :information_desk_person: Team Performance (2016-2018)
+### Team Performance (2016-2018)
 **1. Top Salesperson by Orders & Revenue**
   - Samantha Moore handled the most orders (23) but ranked 4th in revenue.  
   - Brittany Jackson had the highest revenue ($12,182.53) despite handling fewer orders (19).
